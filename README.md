@@ -1,4 +1,8 @@
+
 # Conti 勒索团队泄露的文件
+
+## 2022:03:03 https://github.com/badboycxcc/conti_locker
+
 ## 压缩包文件放到releases 1 [https://github.com/badboycxcc/files/releases/tag/1] 解压密码：cxaqhq
 
 
